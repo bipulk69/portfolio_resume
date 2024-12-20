@@ -3,7 +3,7 @@ import { Github, Linkedin, Code2 } from 'lucide-react';
 
 const socialLinks = [
   { icon: <Github size={24} />, url: "https://github.com/bipulk69", label: "GitHub" },
-  { icon: <Linkedin size={24} />, url: "https://www.linkedin.com/in/bipulk69/", label: "LinkedIn" },
+  { icon: <Linkedin size={24} />, url: "https://www.linkedin.com/in/bipulk06/", label: "LinkedIn" },
   { icon: <Code2 size={24} />, url: "https://leetcode.com/u/bipulk06/", label: "LeetCode" }
 ];
 
