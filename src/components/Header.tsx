@@ -30,18 +30,16 @@ export default function Header() {
       <div className="container mx-auto px-4 relative">
         <div className="max-w-4xl mx-auto text-center space-y-8 stagger-animation">
           <div className="space-y-4">
-            <p className="text-[#999999] text-lg tracking-wider uppercase animate-slide-left">
-              Full Stack Developer
-            </p>
+           
             <h1 className="text-7xl font-bold text-white tracking-tight leading-none animate-slide-right">
               Bipul Kumar
             </h1>
             <div className="h-1 w-24 bg-gradient-to-r from-[#FF6B6B] to-[#4ECDC4] mx-auto animate-fade-in"></div>
           </div>
 
-          <p className="text-xl text-[#CCCCCC] max-w-2xl mx-auto leading-relaxed animate-fade-in">
-            Crafting elegant solutions to complex problems through modern web technologies
-          </p>
+          <p className="text-[#999999] text-lg tracking-wider uppercase animate-slide-left">
+              Full Stack Developer
+            </p>
 
           <div className="flex flex-col items-center gap-8 animate-fade-in">
             <div className="flex items-center gap-6">

@@ -11,9 +11,9 @@ export default function Skills() {
       skills: ["JavaScript", "TypeScript", "C++", "SQL"]
     },
     {
-      title: "Frameworks",
+      title: "Frameworks/Libraries",
       icon: <Terminal size={24} />,
-      skills: ["React", "Next.js", "Node.js", "Express", "React Native"]
+      skills: ["React", "Next.js", "Node.js", "Express", "React Native", "Jest", "Recoil", "Prisma ORM"]
     },
     {
       title: "Databases",
@@ -23,7 +23,7 @@ export default function Skills() {
     {
       title: "Tools",
       icon: <Wrench size={24} />,
-      skills: ["Git", "Docker", "AWS", "CI/CD"]
+      skills: ["Git", "Docker", "AWS", "CI/CD", "Azure", "Kubernetes"]
     }
   ];
 

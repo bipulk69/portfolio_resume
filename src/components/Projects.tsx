@@ -8,12 +8,12 @@ export default function Projects() {
     {
       name: "SustainInsight",
       description: "Carbon emissions calculation platform with real-time analytics and interactive dashboards. Built with Next.js, MongoDB, and Recoil.",
-      technologies: ["TypeScript", "Next.js", "MongoDB", "Recoil", "Docker"],
+      technologies: ["TypeScript", "JavaScript","Next.js", "NodeJS", "MongoDB", "Recoil", "Docker"],
       url: "https://prod.sustaininsight.com/"
     },
     {
       name: "Rider App",
-      description: "Cross-platform delivery management app with real-time tracking and secure payments. Built with React Native and AWS.",
+      description: "Cross-platform delivery management app with enabling order management, delivery tracking, and payment status updates. Built with React Native and SailsJS",
       technologies: ["React Native", "Redux", "Node.js", "MySQL"],
       url: "https://play.google.com/store/apps/details?id=com.ucleanlaundry"
     },
