@@ -38,7 +38,7 @@ export default function Header() {
           </div>
 
           <p className="text-[#999999] text-lg tracking-wider uppercase animate-slide-left">
-              Full Stack Developer
+              Full Stack Develope
             </p>
 
           <div className="flex flex-col items-center gap-8 animate-fade-in">
