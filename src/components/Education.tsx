@@ -13,7 +13,7 @@ export default function Education() {
             <p className="text-lg text-[#4A5568]">Shivalik College of Engineering</p>
           </div>
           <div className="text-right">
-            <p className="text-[#4ECDC4] font-medium">2019 - 2023</p>
+            <p className="text-[#4ECDC4] font-medium">2018 - 2022</p>
             <p className="text-[#A0AEC0]">Dehradun, Uttarakhand</p>
           </div>
         </div>
