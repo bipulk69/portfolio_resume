@@ -19,7 +19,7 @@ export default function Experience() {
     {
       company: "Uclean",
       role: "Software Developer",
-      period: "06/2022 - 05/2024",
+      period: "06/2023 - 05/2024",
       location: "Delhi, India",
       description: `Rider Management App
         • Built cross-platform mobile app with React Native
